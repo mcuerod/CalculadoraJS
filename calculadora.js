@@ -17,6 +17,6 @@ function dividir(a, b) {
 //window.suma = suma;
 //window.resta = resta;
 //window.multiplicar = multiplicar;
-//window.dividir = dividir;
+//window.dividir = dividir; p
 
 module.exports = { suma, resta, multiplicar, dividir };
